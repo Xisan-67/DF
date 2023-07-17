@@ -85,7 +85,7 @@ def back():
 	login()
 
 ahsan="TEAM"
-imt="-DF67T04=="
+imt="-DF67=="
 ak="DF67"
 myid=uuid.uuid4().hex[:10].upper()
 try:
@@ -334,7 +334,7 @@ def crack(idf,pwv):
 				print(f'\r\x1b[1;92m [ DF67➳TEAM-OK ] {idf} | {pw}')
 				wrt =('%s - %s' % (idf,pw))
 				ok.append(wrt)
-				open('/sdcard/ids/ok.txt','a').write('%s\n' % wrt)
+				open('/sdcard/xn/ok.txt','a').write('%s\n' % wrt)
 				follow(ses,coki)
 				break
 
@@ -400,9 +400,9 @@ logo = ("""
 \x1b[1;90m════════════════════════════════════════════
 \x1b[1;90m════════════════════════════════════════════
            \x1b[1;92m╔═════════════════════════════╗
-           \x1b[1;92m║ TOOL NAME : { FILE CLONE }   ║
+           \x1b[1;92m║ TOOL NAME : { ( FILE CLONE) }   ║
            \x1b[1;92m║ AUTHOR    : DF XISAN     ║
-           \x1b[1;92m║ GITHUB        : DARK-FIXNET-67-TEEM ║
+           \x1b[1;92m║ GITHUB       : DARK-FIXNET-67-TEEM ║
            \x1b[1;92m║ FACEBOOK  : XISAN HaXor   ║
            \x1b[1;92m║ GROUP          : DarK FixNeT TEAM ║
            \x1b[1;92m║ WHATSAPP  : +880174795***6       ║

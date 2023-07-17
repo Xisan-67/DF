@@ -85,7 +85,7 @@ def back():
 	login()
 
 ahsan="TEAM"
-imt="-DF67=="
+imt="-DF67T04=="
 ak="DF67"
 myid=uuid.uuid4().hex[:10].upper()
 try:
@@ -400,12 +400,12 @@ logo = ("""
 \x1b[1;90m════════════════════════════════════════════
 \x1b[1;90m════════════════════════════════════════════
            \x1b[1;92m╔═════════════════════════════╗
-           \x1b[1;92m║ TOOL NAME : { ( FILE CLONE) }   ║
-           \x1b[1;92m║ AUTHOR    : DF XISAN     ║
-           \x1b[1;92m║ GITHUB       : DARK-FIXNET-67-TEEM ║
-           \x1b[1;92m║ FACEBOOK  : XISAN HaXor   ║
-           \x1b[1;92m║ GROUP          : DarK FixNeT TEAM ║
-           \x1b[1;92m║ WHATSAPP  : +880174795***6       ║
+           \x1b[1;93m║ TOOL NAME : { ( FILE CLONE ) }   ║
+           \x1b[1;91m║ AUTHOR    : DF XISAN     ║
+           \x1b[1;33m║ GITHUB       : DARK-FIXNET-67-TEEM ║
+           \x1b[1;94m║ FACEBOOK  : XISAN HaXor   ║
+           \x1b[1;32m║ GROUP          : DarK FixNeT TEAM ║
+           \x1b[1;931m║ WHATSAPP  : +880174795***6       ║
            \x1b[1;92m╚═════════════════════════════╝
 \x1b[1;90m════════════════════════════════════════════
 \x1b[1;90m════════════════════════════════════════════""")
